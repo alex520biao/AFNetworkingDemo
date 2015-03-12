@@ -1,0 +1,43 @@
+PODS:
+  - AFNetworking (2.5.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.1)
+  - AFNetworking/Security (2.5.1)
+  - AFNetworking/Serialization (2.5.1)
+  - AFNetworking/UIKit (2.5.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - OHHTTPStubs (3.1.10):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/Core (3.1.10)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.7.1)
+  - TMCache (1.2.3)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.1)
+  - OHHTTPStubs (~> 3.1.10)
+  - SDWebImage (~> 3.7.1)
+  - TMCache (~> 1.2.3)
+
+SPEC CHECKSUMS:
+  AFNetworking: 8bee59492a6ff15d69130efa4d0dc67e0094a52a
+  OHHTTPStubs: 2038e929b6abb94881000524c1cb4aba0a1bb4a2
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+  TMCache: 11589ef8c40909114a5e60132711c9a559e01d97
+
+COCOAPODS: 0.34.4
